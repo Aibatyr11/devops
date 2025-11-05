@@ -2,7 +2,7 @@
 
 ---
 
-# 🛠 DevOps Django Lab
+# 🛠 DevOps Django 
 
 ## 📖 Overview
 
