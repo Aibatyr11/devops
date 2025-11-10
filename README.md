@@ -1,6 +1,6 @@
 ---
 
-# DevOps Django 
+# DevOps
 
 ## Overview
 
